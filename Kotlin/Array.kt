@@ -1,6 +1,6 @@
 import kotlin.Array
 
-class Array {
+class Array<T> {
 }
 
 fun main() {
