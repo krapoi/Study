@@ -14,5 +14,9 @@ fun main() {
     var b = constructor("b", 18)
     var c = constructor("c", 19)
 
+    var d = constructor("d")
+    var e = constructor("e")
+    var f = constructor("f")
+
 
 }
